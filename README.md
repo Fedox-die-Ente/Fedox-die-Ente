@@ -1,6 +1,6 @@
 # Hi, I'm Florian! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-🔭 I’m currently working on a communication software<br>👯 I’m looking to collaborate on your projects :)<br>⚡ Fun fact: I
+🔭 I’m currently working on a communication software and a robot dog with @Austria7<br>👯 I’m looking to collaborate on your projects :)<br>⚡ Fun fact: I
 use 4 tabs instead of 2 tabs.
 
 ## 📫 Connect with me
