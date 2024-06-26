@@ -3,8 +3,6 @@
 🔭 I’m currently working on a communication software<br>👯 I’m looking to collaborate on your projects :)<br>⚡ Fun fact: I
 use 4 tabs instead of 2 tabs.
 
-📫 How to reach me: **[Email](mailto:dwnofedox@gmail.com?subject=[GitHub]), [Instagram](https://www.instagram.com/feeeedox/)**
-
 ## 📫 Connect with me
 <div align="center">
 <a href="https://github.com/Fedox-die-Ente" target="_blank">
@@ -31,10 +29,6 @@ use 4 tabs instead of 2 tabs.
 
 ## 🌟 Most Used Weapons
 ![](https://github-readme-stats.vercel.app/api?username=Fedox-die-Ente&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedox-die-Ente&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=Fedox-die-Ente&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Fedox-die-Ente&icon=2&color=12)](https://visitcount.itsvg.in)
