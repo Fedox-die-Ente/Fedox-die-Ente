@@ -1,7 +1,7 @@
 # Hi, I'm Florian! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 🔭 I’m currently working on a fullstack suite software and a robot dog with [@Austria7](https://github.com/Austria7)<br>👯 I’m looking to collaborate on your projects :)<br>⚡ Fun fact: I
-use 4 tabs instead of 2 tabs.
+use 4 tabs instead of 2 tabs. - Sometimes prettier is forcing me to use 2 tabs :(
 
 ## 📫 Connect with me
 <div align="center">
