@@ -17,9 +17,9 @@ use 4 tabs instead of 2 tabs. - Sometimes prettier is forcing me to use 2 tabs :
 <a href="https://stackoverflow.com/users/16288266" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:dwnofedox@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
- alt=stackoverflow style="margin-bottom: 5px;" />
+<a href="mailto:f3dox@proton.me" target="_blank">
+<img src=https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff
+ alt=mail style="margin-bottom: 5px;" />
 </a>  
 </div>  
 
