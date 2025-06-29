@@ -30,11 +30,11 @@ use 4 tabs instead of 2 tabs. - Sometimes prettier is forcing me to use 2 tabs :
 ## 🌟 Most Used Weapons
 <table>
   <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/?username=Fedox-die-Ente&text_color=cad1d7&show_icons=true&bg_color=0d1117&hide_border=true&count_private=true" />
+    <td align="center" style="padding=0;width:50%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Fedox-die-Ente&show_icons=true&theme=github_dark&count_private=true" />
     </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/top-langs/?username=Fedox-die-Ente&layout=compact&show_icons=true&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" />
+    <td align="center" style="padding=0;width:50%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fedox-die-Ente&layout=compact&theme=github_dark&count_private=true" />
     </td>
   </tr>
 </table>
