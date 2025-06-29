@@ -40,4 +40,4 @@ use 4 tabs instead of 2 tabs. - Sometimes prettier is forcing me to use 2 tabs :
 </table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Fedox-die-Ente&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitor-badge.laobi.icu/badge?page_id=Fedox-die-Ente)](https://visitcount.itsvg.in)
