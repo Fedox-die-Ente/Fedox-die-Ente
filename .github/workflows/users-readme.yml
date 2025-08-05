@@ -68,7 +68,7 @@ jobs:
             print $0
             inside_users = 1
             if (!header_printed) {
-              print "| Name | Picture | Date |"
+              print "| Name | Pic. | Date |"
               print "| ---- | ---------------- | ---- |"
               header_printed = 1
             }
@@ -100,7 +100,7 @@ jobs:
           /<!--START_SECTION:old_users-->/ {
             print $0
             inside_old = 1
-            print "| Name | Picture | Date |"
+            print "| Name | Pic. | Date |"
             print "| ---- | ---------------- | ---- |"
             if (user_count > 2) {
               print old_user
@@ -161,7 +161,7 @@ jobs:
         ISSUE_NUMBER=${{ github.event.issue.number }}
         COMMENT_BODY=$(if [ "${{ env.originaltitle }}" == "false" ]; then echo "Hey, changing the issue title messes up the magic 🧙‍♂️. Please keep it as 'Submit yourself' next time!"; else echo "Nice job! ✅"; fi)
 
-        SECOND_COMMENT_BODY=$(if [ "${{ env.duplicate }}" == "true" ]; then echo "You're already on the list 🎉 – no need to double-dip!"; else echo "Welcome aboard! You've officially made it into the README 😎 → https://github.com/max1mde"; fi)
+        SECOND_COMMENT_BODY=$(if [ "${{ env.duplicate }}" == "true" ]; then echo "You're already on the list 🎉 – no need to double-dip!"; else echo "Welcome aboard! You've officially made it into the README 😎 → https://github.com/Fedox-die-Ente"; fi)
 
         curl -X POST -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
           -H "Accept: application/vnd.github+json" \
