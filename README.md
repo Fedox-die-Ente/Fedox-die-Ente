@@ -65,6 +65,10 @@ use 4 tabs instead of 2 tabs. - Sometimes prettier is forcing me to use 2 tabs :
 </table>
 
 ## ✨ The Chosen Ones 
+
+> Wanna stick here forever?  
+> Just [click here to submit yourself](https://github.com/Fedox-die-Ente/Fedox-die-Ente/issues/new?title=Submit%20yourself&body=Just%20press%20%27Submit%20new%20issue%27.%20You%20don%27t%20need%20to%20do%20anything%20else.%27%0AWhen%20this%20issue%20is%20closed%20by%20the%20bot,%20the%20README%20will%20be%20updated.) 💫  
+
 <!--START_SECTION:users-->
 | Name | Picture | Date |
 | ---- | ---------------- | ---- |
