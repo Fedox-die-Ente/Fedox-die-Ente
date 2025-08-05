@@ -64,5 +64,22 @@ use 4 tabs instead of 2 tabs. - Sometimes prettier is forcing me to use 2 tabs :
   </tr>
 </table>
 
+## ✨ The Chosen Ones 
+<!--START_SECTION:users-->
+| Name | Picture | Date |
+| ---- | ---------------- | ---- |
+
+<!--END_SECTION:users-->
+
+<details>
+<summary>Older users</summary>
+
+<!--START_SECTION:old_users-->
+| Name | Picture | Date |
+| ---- | ---------------- | ---- |
+
+<!--END_SECTION:old_users-->
+</details>
+
 ---
 [![](https://visitor-badge.laobi.icu/badge?page_id=Fedox-die-Ente)](https://visitcount.itsvg.in)
