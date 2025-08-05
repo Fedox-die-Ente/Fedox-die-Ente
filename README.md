@@ -72,6 +72,7 @@ use 4 tabs instead of 2 tabs. - Sometimes prettier is forcing me to use 2 tabs :
 <!--START_SECTION:users-->
 | Name | Pic. | Date |
 | ---- | ---------------- | ---- |
+| [Bozcx](https://github.com/Bozcx) | <img src="https://avatars.githubusercontent.com/Bozcx" width="30" height="30" /> | 2025-08-05 |
 | [Winkarst-cpu](https://github.com/Winkarst-cpu) | <img src="https://avatars.githubusercontent.com/Winkarst-cpu" width="30" height="30" /> | 2025-08-05 |
 <!--END_SECTION:users-->
 
