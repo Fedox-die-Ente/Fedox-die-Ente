@@ -72,7 +72,7 @@ use 4 tabs instead of 2 tabs. - Sometimes prettier is forcing me to use 2 tabs :
 <!--END_SECTION:users-->
 
 <details>
-<summary>Older users</summary>
+<summary>📜 Past Legends</summary>
 
 <!--START_SECTION:old_users-->
 | Name | Picture | Date |
