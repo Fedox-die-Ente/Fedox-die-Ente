@@ -94,4 +94,5 @@ use 4 tabs instead of 2 tabs. - Sometimes prettier is forcing me to use 2 tabs :
 </details>
 
 ---
-[![](https://visitor-badge.laobi.icu/badge?page_id=Fedox-die-Ente)](https://visitcount.itsvg.in)
+[![](https://visitor-badge.laobi.icu/badge?page_id=Fedox-die-Ente)](https://visitcount.itsvg.in)<br>
+[you're not a bad developer](https://www.youtube.com/watch?v=RGaW82k4dK4).
