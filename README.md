@@ -34,7 +34,7 @@ use 4 tabs instead of 2 tabs. - Sometimes prettier is forcing me to use 2 tabs :
 ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![Nuxt.js](https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white) 
+![Nuxt](https://img.shields.io/badge/nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/vue-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) 
