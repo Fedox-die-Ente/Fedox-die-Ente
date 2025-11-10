@@ -72,9 +72,9 @@ use 4 tabs instead of 2 tabs. - Sometimes prettier is forcing me to use 2 tabs :
 <!--START_SECTION:users-->
 | Name | Pic. | Date |
 | ---- | ---------------- | ---- |
+| [Castorkaaa](https://github.com/Castorkaaa) | <img src="https://avatars.githubusercontent.com/Castorkaaa" width="30" height="30" /> | 2025-11-10 |
 | [Austria7](https://github.com/Austria7) | <img src="https://avatars.githubusercontent.com/Austria7" width="30" height="30" /> | 2025-11-02 |
 | [S42yt](https://github.com/S42yt) | <img src="https://avatars.githubusercontent.com/S42yt" width="30" height="30" /> | 2025-09-26 |
-| [AboutCloudMC](https://github.com/AboutCloudMC) | <img src="https://avatars.githubusercontent.com/AboutCloudMC" width="30" height="30" /> | 2025-08-29 |
 <!--END_SECTION:users-->
 
 <details>
@@ -83,6 +83,7 @@ use 4 tabs instead of 2 tabs. - Sometimes prettier is forcing me to use 2 tabs :
 <!--START_SECTION:old_users-->
 | Name | Pic. | Date |
 | ---- | ---------------- | ---- |
+| [AboutCloudMC](https://github.com/AboutCloudMC) | <img src="https://avatars.githubusercontent.com/AboutCloudMC" width="30" height="30" /> | 2025-08-29 |
 | [Ente3](https://github.com/Ente3) | <img src="https://avatars.githubusercontent.com/Ente3" width="30" height="30" /> | 2025-08-26 |
 | [BlackDevCoding](https://github.com/BlackDevCoding) | <img src="https://avatars.githubusercontent.com/BlackDevCoding" width="30" height="30" /> | 2025-08-24 |
 | [byRoadrunner](https://github.com/byRoadrunner) | <img src="https://avatars.githubusercontent.com/byRoadrunner" width="30" height="30" /> | 2025-08-13 |
