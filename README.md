@@ -3,7 +3,7 @@
 🔭 I’m currently working on a some small projects, and im learning CPP.<br>⚡ Fun fact: I
 use 4 tabs instead of 2 tabs. - Sometimes prettier is forcing me to use 2 tabs :(<br>🐧 I use arch btw.
 
-<a href="https://likeme.fedox.ovh/u/Fedox-die-Ente"><img src="https://likeme.fedox.ovh/api/badge/Fedox-die-Ente" alt="LikeME" /></a>
+<a href="https://likeme.fedox.ovh/u/feeeedox"><img src="https://likeme.fedox.ovh/api/badge/feeeedox" alt="LikeME" /></a>
 
 
 ## 📫 Connect with me
