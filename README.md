@@ -8,13 +8,13 @@ use 4 tabs instead of 2 tabs. - Sometimes prettier is forcing me to use 2 tabs :
 
 ## 📫 Connect with me
 <div align="center">
-<a href="https://github.com/Fedox-die-Ente" target="_blank">
+<a href="https://github.com/feeeedox" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/feeeedox" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.com/Fedox-die-Ente" target="_blank">
+<a href="https://codepen.com/feeeedox" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/16288266" target="_blank">
@@ -59,10 +59,10 @@ use 4 tabs instead of 2 tabs. - Sometimes prettier is forcing me to use 2 tabs :
 <table>
   <tr>
     <td align="center" style="padding=0;width:50%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Fedox-die-Ente&show_icons=true&theme=github_dark&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=feeeedox&show_icons=true&theme=github_dark&count_private=true" />
     </td>
     <td align="center" style="padding=0;width:50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fedox-die-Ente&layout=compact&theme=github_dark&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feeeedox&layout=compact&theme=github_dark&count_private=true" />
     </td>
   </tr>
 </table>
@@ -70,7 +70,7 @@ use 4 tabs instead of 2 tabs. - Sometimes prettier is forcing me to use 2 tabs :
 ## ✨ The Chosen Ones 
 
 > Wanna stick here forever?  
-> Just [click here to submit yourself](https://github.com/Fedox-die-Ente/Fedox-die-Ente/issues/new?title=Submit%20yourself&body=Just%20press%20%27Create%27.%20You%20don%27t%20need%20to%20do%20anything%20else.%0AWhen%20this%20issue%20is%20closed%20by%20the%20bot,%20the%20README%20will%20be%20updated.) 💫
+> Just [click here to submit yourself](https://github.com/feeeedox/feeeedox/issues/new?title=Submit%20yourself&body=Just%20press%20%27Create%27.%20You%20don%27t%20need%20to%20do%20anything%20else.%0AWhen%20this%20issue%20is%20closed%20by%20the%20bot,%20the%20README%20will%20be%20updated.) 💫
 
 <!--START_SECTION:users-->
 | Name | Pic. | Date |
@@ -105,5 +105,5 @@ use 4 tabs instead of 2 tabs. - Sometimes prettier is forcing me to use 2 tabs :
 </details>
 
 ---
-[![](https://visitor-badge.laobi.icu/badge?page_id=Fedox-die-Ente)](https://visitcount.itsvg.in)<br>
+[![](https://visitor-badge.laobi.icu/badge?page_id=feeeedox)](https://visitcount.itsvg.in)<br>
 [you're not a bad developer](https://www.youtube.com/watch?v=RGaW82k4dK4).
