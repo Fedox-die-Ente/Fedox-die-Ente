@@ -107,4 +107,3 @@ use 4 tabs instead of 2 tabs. - Sometimes prettier is forcing me to use 2 tabs :
 
 ---
 [![](https://visitor-badge.laobi.icu/badge?page_id=feeeedox)](https://visitcount.itsvg.in)<br>
-[you're not a bad developer](https://www.youtube.com/watch?v=RGaW82k4dK4).
