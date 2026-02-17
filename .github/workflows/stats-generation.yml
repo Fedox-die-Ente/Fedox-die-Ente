@@ -3,7 +3,7 @@ name: Generate GitHub Stats SVG
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * 0' # Jeden Sonntag um Mitternacht
+    - cron: '0 0 * * *' # Every day at midnight
 
 jobs:
   generate-stats:
