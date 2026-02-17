@@ -45,7 +45,7 @@
   <path d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-1-13h2v6h-2zm0 8h2v2h-2z" fill="white" opacity="0.42"/>
 </g>
 <text x="628" y="319" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">TOTAL COMMITS</text>
-<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="596.231" y="371.455">728</tspan></text>
+<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="596.231" y="371.455">732</tspan></text>
 </g>
 
 <g id="Frame 1000003122">
@@ -63,7 +63,7 @@
   <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z" fill="white" opacity="0.42"/>
 </g>
 <text x="225" y="478" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">ISSUES</text>
-<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="193.231" y="530.455">71</tspan></text>
+<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="193.231" y="530.455">72</tspan></text>
 </g>
 
 <g id="Frame 1000003124">
@@ -80,7 +80,7 @@
 <g transform="translate(999 455) scale(1.1)">
   <path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5s-3 1.34-3 3 1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.61.02-.95.05 1.14.85 1.95 2.06 1.95 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z" fill="white" opacity="0.42"/>
 </g>
-<text x="1031" y="478" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">CONTRIBUTIONS</text>
+<text x="1031" y="478" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">FORKS</text>
 <text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="999.231" y="530.455">3</tspan></text>
 </g>
 </g>
