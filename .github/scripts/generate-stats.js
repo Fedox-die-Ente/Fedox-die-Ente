@@ -29,47 +29,65 @@ const username = process.env.GITHUB_USERNAME;
 
 async function getGitHubStats() {
   try {
-    const { data: user } = await octokit.users.getByUsername({ username });
-    
-    const repos = [];
-    let page = 1;
-    while (true) {
-      const { data } = await octokit.repos.listForAuthenticatedUser({
-        visibility: 'all',
-        per_page: 100,
-        page
-      });
-      if (data.length === 0) break;
-      repos.push(...data);
-      page++;
+    const repos = await octokit.paginate(octokit.repos.listForAuthenticatedUser, {
+      affiliation: 'owner', 
+      per_page: 100
+    });
+
+    console.log(`Found ${repos.length} owned repositories.`);
+
+    let totalStars = 0;
+    let totalForks = 0;
+    const languageStats = {};
+
+    for (const repo of repos) {
+      totalStars += repo.stargazers_count;
+      totalForks += repo.forks_count;
+
+      try {
+        const { data: langs } = await octokit.repos.listLanguages({
+          owner: username,
+          repo: repo.name
+        });
+        for (const [lang, bytes] of Object.entries(langs)) {
+          languageStats[lang] = (languageStats[lang] || 0) + bytes;
+        }
+      } catch (e) {
+      }
     }
-    
-    const totalStars = repos.reduce((sum, repo) => sum + repo.stargazers_count, 0);
-    const totalForks = repos.reduce((sum, repo) => sum + repo.forks_count, 0);
-    const totalCommits = await getTotalCommits(repos);
-    const totalPRs = await getTotalPullRequests();
-    const totalIssues = await getTotalIssues();
-    const totalRepos = user.public_repos + (user.total_private_repos || 0);
-    
-    const languages = await getTopLanguages(repos);
-    
+
+    const { data: commitData } = await octokit.search.commits({ q: `author:${username}` });
+    const { data: prData } = await octokit.search.issuesAndPullRequests({ q: `author:${username} type:pr` });
+    const { data: issueData } = await octokit.search.issuesAndPullRequests({ q: `author:${username} type:issue` });
+
+    const sortedLangs = Object.entries(languageStats)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 5);
+
+    const totalBytes = sortedLangs.reduce((sum, [, bytes]) => sum + bytes, 0);
+
+    const languages = sortedLangs.map(([name, bytes]) => ({
+      name,
+      percentage: ((bytes / totalBytes) * 100).toFixed(1),
+      color: languageColors[name] || languageColors['Default']
+    }));
+
     return {
       totalStars,
       totalForks,
-      totalCommits,
-      totalPRs,
-      totalIssues,
-      totalRepos,
+      totalCommits: commitData.total_count,
+      totalPRs: prData.total_count,
+      totalIssues: issueData.total_count,
+      totalRepos: repos.length,
       languages
     };
   } catch (error) {
-    console.error('Error fetching GitHub stats:', error);
+    console.error('Error:', error);
     throw error;
   }
 }
 
 async function getTotalCommits(repos) {
-  // Benutzt die Search API, um ALLE Commits (auch privat) zu zählen
   try {
     const { data } = await octokit.search.commits({
       q: `author:${username}`,
