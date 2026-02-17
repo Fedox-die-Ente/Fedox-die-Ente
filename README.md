@@ -1,4 +1,4 @@
-[![Header]("https://raw.githubusercontent.com/feeeedox/feeeedox/main/assets/banner.png" "Header")](https://fedox.ovh)
+[![Banner]("https://raw.githubusercontent.com/feeeedox/feeeedox/refs/heads/main/assets/banner.png" "Banner")](https://fedox.ovh)
 
 # Hi, I'm Florian! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
