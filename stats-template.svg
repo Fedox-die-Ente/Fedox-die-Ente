@@ -1,4 +1,8 @@
 <svg width="1491" height="839" viewBox="0 0 1491 839" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;display=swap');
+    text { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; }
+</style>
 <g id="Frame 1000003119">
 <g clip-path="url(#clip0_217_44)">
 <rect width="1491" height="839" rx="19" fill="#000307"/>
@@ -28,32 +32,55 @@
 <g id="Frame 1000003121" clip-path="url(#clip1_217_44)">
 <g id="Frame 1000003120">
 <rect x="170" y="273" width="380" height="133" rx="18" fill="white" fill-opacity="0.03"/>
-<text fill="white" fill-opacity="0.42" font-family="Inter" font-size="24" font-weight="600"><tspan x="193.436" y="319.227">⭐ TOTAL STARS</tspan></text>
+<g transform="translate(193 296) scale(1.1)">
+  <path d="M12 2l2.9 6.9L22 9.7l-5 4.9L18.2 22 12 18.6 5.8 22 7 14.6 2 9.7l7.1-.8L12 2z" fill="white" opacity="0.42"/>
+</g>
+<text x="225" y="319" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">TOTAL STARS</text>
 <text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="193.231" y="371.455">TOTAL_STARS_VALUE</tspan></text>
 </g>
+
 <g id="Frame 1000003121_2">
 <rect x="573" y="273" width="380" height="133" rx="18" fill="white" fill-opacity="0.03"/>
-<text fill="white" fill-opacity="0.42" font-family="Inter" font-size="24" font-weight="600"><tspan x="596.429" y="319.227">💻 TOTAL COMMITS</tspan></text>
+<g transform="translate(596 296) scale(1.1)">
+  <path d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-1-13h2v6h-2zm0 8h2v2h-2z" fill="white" opacity="0.42"/>
+</g>
+<text x="628" y="319" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">TOTAL COMMITS</text>
 <text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="596.231" y="371.455">TOTAL_COMMITS_VALUE</tspan></text>
 </g>
+
 <g id="Frame 1000003122">
 <rect x="976" y="273" width="380" height="133" rx="18" fill="white" fill-opacity="0.03"/>
-<text fill="white" fill-opacity="0.42" font-family="Inter" font-size="24" font-weight="600"><tspan x="999.074" y="319.227">🔀 PULL REQUESTS</tspan></text>
+<g transform="translate(999 296) scale(1.1)">
+  <path d="M15 15l5-5-5-5v4H9c-1.65 0-3 1.35-3 3v5h2v-5c0-.55.45-1 1-1h6v4z" fill="white" opacity="0.42"/>
+</g>
+<text x="1031" y="319" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">PULL REQUESTS</text>
 <text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="999.231" y="371.455">PULL_REQUESTS_VALUE</tspan></text>
 </g>
+
 <g id="Frame 1000003123">
 <rect x="170" y="432" width="380" height="133" rx="18" fill="white" fill-opacity="0.03"/>
-<text fill="white" fill-opacity="0.42" font-family="Inter" font-size="24" font-weight="600"><tspan x="193.082" y="478.227">❗ ISSUES</tspan></text>
+<g transform="translate(193 455) scale(1.1)">
+  <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z" fill="white" opacity="0.42"/>
+</g>
+<text x="225" y="478" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">ISSUES</text>
 <text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="193.231" y="530.455">ISSUES_VALUE</tspan></text>
 </g>
+
 <g id="Frame 1000003124">
 <rect x="573" y="432" width="380" height="133" rx="18" fill="white" fill-opacity="0.03"/>
-<text fill="white" fill-opacity="0.42" font-family="Inter" font-size="24" font-weight="600"><tspan x="596.126" y="478.227">📦 PUBLIC REPOSITORIES</tspan></text>
+<g transform="translate(596 455) scale(1.1)">
+  <path d="M20 6h-8l-2-2H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-6 10H6v-2h8v2zm4-4H6v-2h12v2z" fill="white" opacity="0.42"/>
+</g>
+<text x="628" y="478" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">PUBLIC REPOSITORIES</text>
 <text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="596.231" y="530.455">TOTAL_REPOS_VALUE</tspan></text>
 </g>
+
 <g id="Frame 1000003125">
 <rect x="976" y="432" width="380" height="133" rx="18" fill="white" fill-opacity="0.03"/>
-<text fill="white" fill-opacity="0.42" font-family="Inter" font-size="24" font-weight="600"><tspan x="999.156" y="478.227">🤝 CONTRIBUTIONS</tspan></text>
+<g transform="translate(999 455) scale(1.1)">
+  <path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5s-3 1.34-3 3 1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.61.02-.95.05 1.14.85 1.95 2.06 1.95 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z" fill="white" opacity="0.42"/>
+</g>
+<text x="1031" y="478" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">CONTRIBUTIONS</text>
 <text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="999.231" y="530.455">TOTAL_FORKS_VALUE</tspan></text>
 </g>
 </g>
