@@ -17,11 +17,13 @@ It's best to use my **[contact form at fedox.ovh](https://fedox.ovh/contact)** �
 ## 💻 My Skills
 
 ### 🚀 Frameworks & Languages
-![](https://img.shields.io/badge/Framework-Next%20JS-601FDE?style=flat&logo=next.js&logoColor=white&color=601FDE)
 ![](https://img.shields.io/badge/Framework-Nuxt-601FDE?style=flat&logo=nuxt&logoColor=white&color=601FDE)
+![](https://img.shields.io/badge/Framework-Next%20JS-601FDE?style=flat&logo=next.js&logoColor=white&color=601FDE)
+![](https://img.shields.io/badge/Framework-React-601FDE?style=flat&logo=react&logoColor=white&color=601FDE)
 ![](https://img.shields.io/badge/Code-Vue.js-601FDE?style=flat&logo=vue.js&logoColor=white&color=601FDE)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=601FDE)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=601FDE)
+![](https://img.shields.io/badge/Code-Dart-601FDE?style=flat&logo=dart&logoColor=white&color=601FDE)
 ![](https://img.shields.io/badge/Code-Lua-601FDE?style=flat&logo=lua&logoColor=white&color=601FDE)
 
 ### ⚙️ Databases
