@@ -2,7 +2,7 @@ const { Octokit } = require('@octokit/rest');
 const fs = require('fs');
 
 const octokit = new Octokit({
-  auth: process.env.STATS_TOKEN 
+  auth: process.env.GITHUB_TOKEN 
 });
 
 const username = process.env.GITHUB_USERNAME || 'feeeedox';

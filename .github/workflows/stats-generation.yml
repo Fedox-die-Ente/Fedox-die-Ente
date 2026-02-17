@@ -24,7 +24,7 @@ jobs:
           
       - name: Generate Stats SVG
         env:
-          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
         run: node .github/scripts/generate-stats.js
         
