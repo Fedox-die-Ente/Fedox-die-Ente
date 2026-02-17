@@ -24,126 +24,97 @@
 <path id="Ellipse 3" d="M93.4961 621.051C182.977 723.464 177.464 874.575 81.3201 958.579C-14.8237 1042.58 -165.308 1027.77 -254.79 925.359C-344.271 822.946 -338.757 671.835 -242.614 587.831C-146.47 503.828 4.01478 518.639 93.4961 621.051Z" stroke="url(#paint6_linear_217_44)" stroke-width="1.5"/>
 <text id="feeeedox" fill="#D9D9D9" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="96" font-weight="bold" letter-spacing="0.02em"><tspan x="504.999" y="217.909">FEEEEDOX</tspan></text>
 <text id="top 5 most used languages" fill="#D9D9D9" fill-opacity="0.56" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="36" font-weight="600" letter-spacing="0.02em"><tspan x="472.628" y="632.091">TOP 5 MOST USED LANGUAGES</tspan></text>
+
 <g id="Frame 1000003121" clip-path="url(#clip1_217_44)">
 <g id="Frame 1000003120">
 <rect x="170" y="273" width="380" height="133" rx="18" fill="white" fill-opacity="0.03"/>
-<rect x="170.5" y="273.5" width="379" height="132" rx="17.5" stroke="white" stroke-opacity="0.05"/>
-<text id="&#226;&#173;&#144; total stars" fill="white" fill-opacity="0.42" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="24" font-weight="600" letter-spacing="0.02em"><tspan x="193.436" y="319.227">&#x2b50; TOTAL STARS</tspan></text>
-<text id="TOTAL_STARS_VALUE" fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="48" font-weight="bold" letter-spacing="0.02em"><tspan x="193.231" y="371.455">35</tspan></text>
+<text fill="white" fill-opacity="0.42" font-family="Inter" font-size="24" font-weight="600"><tspan x="193.436" y="319.227">⭐ TOTAL STARS</tspan></text>
+<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="193.231" y="371.455">TOTAL_STARS_VALUE</tspan></text>
 </g>
 <g id="Frame 1000003121_2">
 <rect x="573" y="273" width="380" height="133" rx="18" fill="white" fill-opacity="0.03"/>
-<rect x="573.5" y="273.5" width="379" height="132" rx="17.5" stroke="white" stroke-opacity="0.05"/>
-<text id="&#240;&#159;&#146;&#187; total commits" fill="white" fill-opacity="0.42" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="24" font-weight="600" letter-spacing="0.02em"><tspan x="596.429" y="319.227">&#x1f4bb; TOTAL COMMITS</tspan></text>
-<text id="35_2" fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="48" font-weight="bold" letter-spacing="0.02em"><tspan x="596.231" y="371.455">35</tspan></text>
+<text fill="white" fill-opacity="0.42" font-family="Inter" font-size="24" font-weight="600"><tspan x="596.429" y="319.227">💻 TOTAL COMMITS</tspan></text>
+<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="596.231" y="371.455">TOTAL_COMMITS_VALUE</tspan></text>
 </g>
 <g id="Frame 1000003122">
 <rect x="976" y="273" width="380" height="133" rx="18" fill="white" fill-opacity="0.03"/>
-<rect x="976.5" y="273.5" width="379" height="132" rx="17.5" stroke="white" stroke-opacity="0.05"/>
-<text id="&#240;&#159;&#148;&#128; pull requests" fill="white" fill-opacity="0.42" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="24" font-weight="600" letter-spacing="0.02em"><tspan x="999.074" y="319.227">&#x1f500; PULL REQUESTS</tspan></text>
-<text id="35_3" fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="48" font-weight="bold" letter-spacing="0.02em"><tspan x="999.231" y="371.455">35</tspan></text>
+<text fill="white" fill-opacity="0.42" font-family="Inter" font-size="24" font-weight="600"><tspan x="999.074" y="319.227">🔀 PULL REQUESTS</tspan></text>
+<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="999.231" y="371.455">PULL_REQUESTS_VALUE</tspan></text>
 </g>
 <g id="Frame 1000003123">
 <rect x="170" y="432" width="380" height="133" rx="18" fill="white" fill-opacity="0.03"/>
-<rect x="170.5" y="432.5" width="379" height="132" rx="17.5" stroke="white" stroke-opacity="0.05"/>
-<text id="&#226;&#157;&#151; issues" fill="white" fill-opacity="0.42" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="24" font-weight="600" letter-spacing="0.02em"><tspan x="193.082" y="478.227">&#x2757; ISSUES</tspan></text>
-<text id="35_4" fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="48" font-weight="bold" letter-spacing="0.02em"><tspan x="193.231" y="530.455">35</tspan></text>
+<text fill="white" fill-opacity="0.42" font-family="Inter" font-size="24" font-weight="600"><tspan x="193.082" y="478.227">❗ ISSUES</tspan></text>
+<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="193.231" y="530.455">ISSUES_VALUE</tspan></text>
 </g>
 <g id="Frame 1000003124">
 <rect x="573" y="432" width="380" height="133" rx="18" fill="white" fill-opacity="0.03"/>
-<rect x="573.5" y="432.5" width="379" height="132" rx="17.5" stroke="white" stroke-opacity="0.05"/>
-<text id="&#240;&#159;&#147;&#166; public repositories" fill="white" fill-opacity="0.42" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="24" font-weight="600" letter-spacing="0.02em"><tspan x="596.126" y="478.227">&#x1f4e6; PUBLIC REPOSITORIES</tspan></text>
-<text id="35_5" fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="48" font-weight="bold" letter-spacing="0.02em"><tspan x="596.231" y="530.455">35</tspan></text>
+<text fill="white" fill-opacity="0.42" font-family="Inter" font-size="24" font-weight="600"><tspan x="596.126" y="478.227">📦 PUBLIC REPOSITORIES</tspan></text>
+<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="596.231" y="530.455">TOTAL_REPOS_VALUE</tspan></text>
 </g>
 <g id="Frame 1000003125">
 <rect x="976" y="432" width="380" height="133" rx="18" fill="white" fill-opacity="0.03"/>
-<rect x="976.5" y="432.5" width="379" height="132" rx="17.5" stroke="white" stroke-opacity="0.05"/>
-<text id="&#240;&#159;&#164;&#157; contributions" fill="white" fill-opacity="0.42" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="24" font-weight="600" letter-spacing="0.02em"><tspan x="999.156" y="478.227">&#x1f91d; CONTRIBUTIONS</tspan></text>
-<text id="35_6" fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="48" font-weight="bold" letter-spacing="0.02em"><tspan x="999.231" y="530.455">35</tspan></text>
+<text fill="white" fill-opacity="0.42" font-family="Inter" font-size="24" font-weight="600"><tspan x="999.156" y="478.227">🤝 CONTRIBUTIONS</tspan></text>
+<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="999.231" y="530.455">TOTAL_FORKS_VALUE</tspan></text>
 </g>
 </g>
+
 <g id="Frame 1000003126">
 <g id="Frame 1000003127">
-<text id="Java" fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="24" font-weight="600" letter-spacing="0.02em"><tspan x="178.28" y="706.227">Java</tspan></text>
-<text id="39.1%" fill="#D2712C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="32" font-weight="600" letter-spacing="0.02em"><tspan x="178.486" y="748.136">39.1%</tspan></text>
-<g id="Frame 1000003128">
+<text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="178.28" y="706.227">LANGUAGE_1_NAME</tspan></text>
+<text fill="#D2712C" font-family="Inter" font-size="32" font-weight="600"><tspan x="178.486" y="748.136">LANGUAGE_1_PERCENT%</tspan></text>
 <rect x="178" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
-<rect id="Rectangle 4410" x="178" y="761" width="125" height="9" rx="3" fill="#D2712C"/>
-</g>
+<rect x="178" y="761" width="125" height="9" rx="3" fill="#D2712C"/>
 </g>
 <g id="Frame 1000003128_2">
-<text id="Java_2" fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="24" font-weight="600" letter-spacing="0.02em"><tspan x="418.28" y="706.227">Java</tspan></text>
-<text id="39.1%_2" fill="#D2712C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="32" font-weight="600" letter-spacing="0.02em"><tspan x="418.486" y="748.136">39.1%</tspan></text>
-<g id="Frame 1000003128_3">
+<text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="418.28" y="706.227">LANGUAGE_2_NAME</tspan></text>
+<text fill="#D2712C" font-family="Inter" font-size="32" font-weight="600"><tspan x="418.486" y="748.136">LANGUAGE_2_PERCENT%</tspan></text>
 <rect x="418" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
-<rect id="Rectangle 4410_2" x="418" y="761" width="125" height="9" rx="3" fill="#D2712C"/>
-</g>
+<rect x="418" y="761" width="125" height="9" rx="3" fill="#D2712C"/>
 </g>
 <g id="Frame 1000003129">
-<text id="Java_3" fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="24" font-weight="600" letter-spacing="0.02em"><tspan x="658.28" y="706.227">Java</tspan></text>
-<text id="39.1%_3" fill="#D2712C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="32" font-weight="600" letter-spacing="0.02em"><tspan x="658.486" y="748.136">39.1%</tspan></text>
-<g id="Frame 1000003128_4">
+<text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="658.28" y="706.227">LANGUAGE_3_NAME</tspan></text>
+<text fill="#D2712C" font-family="Inter" font-size="32" font-weight="600"><tspan x="658.486" y="748.136">LANGUAGE_3_PERCENT%</tspan></text>
 <rect x="658" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
-<rect id="Rectangle 4410_3" x="658" y="761" width="125" height="9" rx="3" fill="#D2712C"/>
-</g>
+<rect x="658" y="761" width="125" height="9" rx="3" fill="#D2712C"/>
 </g>
 <g id="Frame 1000003130">
-<text id="Java_4" fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="24" font-weight="600" letter-spacing="0.02em"><tspan x="898.28" y="706.227">Java</tspan></text>
-<text id="39.1%_4" fill="#D2712C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="32" font-weight="600" letter-spacing="0.02em"><tspan x="898.486" y="748.136">39.1%</tspan></text>
-<g id="Frame 1000003128_5">
+<text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="898.28" y="706.227">LANGUAGE_4_NAME</tspan></text>
+<text fill="#D2712C" font-family="Inter" font-size="32" font-weight="600"><tspan x="898.486" y="748.136">LANGUAGE_4_PERCENT%</tspan></text>
 <rect x="898" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
-<rect id="Rectangle 4410_4" x="898" y="761" width="125" height="9" rx="3" fill="#D2712C"/>
-</g>
+<rect x="898" y="761" width="125" height="9" rx="3" fill="#D2712C"/>
 </g>
 <g id="Frame 1000003131">
-<text id="Java_5" fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="24" font-weight="600" letter-spacing="0.02em"><tspan x="1138.28" y="706.227">Java</tspan></text>
-<text id="39.1%_5" fill="#D2712C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="32" font-weight="600" letter-spacing="0.02em"><tspan x="1138.49" y="748.136">39.1%</tspan></text>
-<g id="Frame 1000003128_6">
+<text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="1138.28" y="706.227">LANGUAGE_5_NAME</tspan></text>
+<text fill="#D2712C" font-family="Inter" font-size="32" font-weight="600"><tspan x="1138.49" y="748.136">LANGUAGE_5_PERCENT%</tspan></text>
 <rect x="1138" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
-<rect id="Rectangle 4410_5" x="1138" y="761" width="125" height="9" rx="3" fill="#D2712C"/>
-</g>
+<rect x="1138" y="761" width="125" height="9" rx="3" fill="#D2712C"/>
 </g>
 </g>
 </g>
 </g>
 <defs>
 <linearGradient id="paint0_linear_217_44" x1="-14.3062" y1="29.8386" x2="1482.85" y2="1005.9" gradientUnits="userSpaceOnUse">
-<stop stop-color="#601FDE"/>
-<stop offset="0.26423" stop-color="#6E43BA"/>
-<stop offset="0.592008" stop-color="#95AA54"/>
-<stop offset="1" stop-color="#B5FF00"/>
+<stop stop-color="#601FDE"/><stop offset="0.26423" stop-color="#6E43BA"/><stop offset="0.592008" stop-color="#95AA54"/><stop offset="1" stop-color="#B5FF00"/>
 </linearGradient>
 <linearGradient id="paint1_linear_217_44" x1="763" y1="-53" x2="763" y2="852" gradientUnits="userSpaceOnUse">
-<stop stop-color="#601FDE"/>
-<stop offset="1" stop-color="#341178" stop-opacity="0"/>
+<stop stop-color="#601FDE"/><stop offset="1" stop-color="#341178" stop-opacity="0"/>
 </linearGradient>
 <linearGradient id="paint2_linear_217_44" x1="-17.654" y1="11.6693" x2="1501.59" y2="984.886" gradientUnits="userSpaceOnUse">
-<stop stop-color="#601FDE"/>
-<stop offset="0.26423" stop-color="#6E43BA"/>
-<stop offset="0.592008" stop-color="#95AA54"/>
-<stop offset="1" stop-color="#B5FF00"/>
+<stop stop-color="#601FDE"/><stop offset="0.26423" stop-color="#6E43BA"/><stop offset="0.592008" stop-color="#95AA54"/><stop offset="1" stop-color="#B5FF00"/>
 </linearGradient>
 <linearGradient id="paint3_linear_217_44" x1="1390.67" y1="291.79" x2="1875.21" y2="-72.1545" gradientUnits="userSpaceOnUse">
-<stop stop-color="#95AA54"/>
-<stop offset="0.420578" stop-color="#341178" stop-opacity="0"/>
+<stop stop-color="#95AA54"/><stop offset="0.420578" stop-color="#341178" stop-opacity="0"/>
 </linearGradient>
 <linearGradient id="paint4_linear_217_44" x1="1447.44" y1="249.149" x2="1818.44" y2="-29.514" gradientUnits="userSpaceOnUse">
-<stop stop-color="#95AA54"/>
-<stop offset="0.456528" stop-color="#95AA54" stop-opacity="0"/>
+<stop stop-color="#95AA54"/><stop offset="0.456528" stop-color="#95AA54" stop-opacity="0"/>
 </linearGradient>
 <linearGradient id="paint5_linear_217_44" x1="12.5276" y1="616.843" x2="-443.821" y2="1015.57" gradientUnits="userSpaceOnUse">
-<stop stop-color="#601FDE"/>
-<stop offset="0.420578" stop-color="#341178" stop-opacity="0"/>
+<stop stop-color="#601FDE"/><stop offset="0.420578" stop-color="#341178" stop-opacity="0"/>
 </linearGradient>
 <linearGradient id="paint6_linear_217_44" x1="94.061" y1="620.558" x2="-255.354" y2="925.853" gradientUnits="userSpaceOnUse">
-<stop stop-color="#601FDE"/>
-<stop offset="0.456528" stop-color="#341178" stop-opacity="0"/>
+<stop stop-color="#601FDE"/><stop offset="0.456528" stop-color="#341178" stop-opacity="0"/>
 </linearGradient>
-<clipPath id="clip0_217_44">
-<rect width="1491" height="839" rx="19" fill="white"/>
-</clipPath>
-<clipPath id="clip1_217_44">
-<rect width="1186" height="292" fill="white" transform="translate(170 273)"/>
-</clipPath>
+<clipPath id="clip0_217_44"><rect width="1491" height="839" rx="19" fill="white"/></clipPath>
+<clipPath id="clip1_217_44"><rect width="1186" height="292" fill="white" transform="translate(170 273)"/></clipPath>
 </defs>
 </svg>
