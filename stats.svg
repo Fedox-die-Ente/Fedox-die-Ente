@@ -1,0 +1,147 @@
+<svg width="1491" height="839" viewBox="0 0 1491 839" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;display=swap');
+    text { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; }
+</style>
+<g id="Frame 1000003119">
+<g clip-path="url(#clip0_217_44)">
+<rect width="1491" height="839" rx="19" fill="#000307"/>
+<g id="Mask group">
+<mask id="mask0_217_44" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="-53" width="1526" height="905">
+<rect id="Rectangle 5" x="0.5" y="-52.5" width="1525" height="904" rx="31.5" fill="url(#paint0_linear_217_44)" stroke="url(#paint1_linear_217_44)"/>
+</mask>
+<g mask="url(#mask0_217_44)">
+<rect id="Rectangle 6" x="-3.28613" y="-73" width="1532.57" height="925" fill="url(#paint2_linear_217_44)" fill-opacity="0.12"/>
+<ellipse id="Ellipse 4" opacity="0.32" cx="495.865" cy="597" rx="10.6429" ry="10" fill="#601FDE"/>
+<ellipse id="Ellipse 5" cx="1059.94" cy="703" rx="10.6429" ry="10" fill="#601FDE"/>
+<ellipse id="Ellipse 7" opacity="0.32" cx="575.686" cy="384" rx="5.32143" ry="5" fill="#601FDE"/>
+<ellipse id="Ellipse 8" opacity="0.32" cx="1003.53" cy="290" rx="5.32143" ry="5" fill="#601FDE"/>
+<ellipse id="Ellipse 9" cx="396.886" cy="283" rx="5.32143" ry="5" fill="#601FDE"/>
+<ellipse id="Ellipse 10" opacity="0.24" cx="343.671" cy="707" rx="5.32143" ry="5" fill="#601FDE"/>
+<ellipse id="Ellipse 11" cx="1014.17" cy="450" rx="5.32143" ry="5" fill="#601FDE"/>
+<ellipse id="Ellipse 6" opacity="0.32" cx="1186.05" cy="375.5" rx="6.91786" ry="6.5" fill="#601FDE"/>
+<path id="Ellipse 12" d="M1391.27 291.339C1284.53 149.231 1306.29 -47.2025 1439.72 -147.428C1573.16 -247.654 1767.87 -213.813 1874.61 -71.704C1981.35 70.4046 1959.6 266.838 1826.16 367.063C1692.72 467.289 1498.01 433.448 1391.27 291.339Z" stroke="url(#paint3_linear_217_44)" stroke-width="1.5"/>
+<path id="Ellipse 13" d="M1448.04 248.699C1366.36 139.959 1383.02 -10.3324 1485.1 -87.0084C1587.19 -163.684 1736.17 -137.803 1817.84 -29.0634C1899.52 79.6767 1882.86 229.968 1780.78 306.644C1678.7 383.32 1529.72 357.439 1448.04 248.699Z" stroke="url(#paint4_linear_217_44)" stroke-width="1.5"/>
+</g>
+</g>
+<path id="Ellipse 2" d="M11.9628 617.336C128.903 751.176 121.711 948.679 -3.96122 1058.48C-129.634 1168.29 -326.316 1148.91 -443.256 1015.07C-560.196 881.235 -553.005 683.732 -427.332 573.928C-301.66 464.124 -104.977 483.496 11.9628 617.336Z" stroke="url(#paint5_linear_217_44)" stroke-width="1.5"/>
+<path id="Ellipse 3" d="M93.4961 621.051C182.977 723.464 177.464 874.575 81.3201 958.579C-14.8237 1042.58 -165.308 1027.77 -254.79 925.359C-344.271 822.946 -338.757 671.835 -242.614 587.831C-146.47 503.828 4.01478 518.639 93.4961 621.051Z" stroke="url(#paint6_linear_217_44)" stroke-width="1.5"/>
+<text id="feeeedox" fill="#D9D9D9" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="96" font-weight="bold" letter-spacing="0.02em"><tspan x="504.999" y="217.909">FEEEEDOX</tspan></text>
+<text id="top 5 most used languages" fill="#D9D9D9" fill-opacity="0.56" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="36" font-weight="600" letter-spacing="0.02em"><tspan x="472.628" y="632.091">TOP 5 MOST USED LANGUAGES</tspan></text>
+
+<g id="Frame 1000003121" clip-path="url(#clip1_217_44)">
+<g id="Frame 1000003120">
+<rect x="170" y="273" width="380" height="133" rx="18" fill="white" fill-opacity="0.03"/>
+<g transform="translate(193 296) scale(1.1)">
+  <path d="M12 2l2.9 6.9L22 9.7l-5 4.9L18.2 22 12 18.6 5.8 22 7 14.6 2 9.7l7.1-.8L12 2z" fill="white" opacity="0.42"/>
+</g>
+<text x="225" y="319" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">TOTAL STARS</text>
+<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="193.231" y="371.455">35</tspan></text>
+</g>
+
+<g id="Frame 1000003121_2">
+<rect x="573" y="273" width="380" height="133" rx="18" fill="white" fill-opacity="0.03"/>
+<g transform="translate(596 296) scale(1.1)">
+  <path d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-1-13h2v6h-2zm0 8h2v2h-2z" fill="white" opacity="0.42"/>
+</g>
+<text x="628" y="319" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">TOTAL COMMITS</text>
+<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="596.231" y="371.455">728</tspan></text>
+</g>
+
+<g id="Frame 1000003122">
+<rect x="976" y="273" width="380" height="133" rx="18" fill="white" fill-opacity="0.03"/>
+<g transform="translate(999 296) scale(1.1)">
+  <path d="M15 15l5-5-5-5v4H9c-1.65 0-3 1.35-3 3v5h2v-5c0-.55.45-1 1-1h6v4z" fill="white" opacity="0.42"/>
+</g>
+<text x="1031" y="319" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">PULL REQUESTS</text>
+<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="999.231" y="371.455">46</tspan></text>
+</g>
+
+<g id="Frame 1000003123">
+<rect x="170" y="432" width="380" height="133" rx="18" fill="white" fill-opacity="0.03"/>
+<g transform="translate(193 455) scale(1.1)">
+  <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z" fill="white" opacity="0.42"/>
+</g>
+<text x="225" y="478" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">ISSUES</text>
+<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="193.231" y="530.455">71</tspan></text>
+</g>
+
+<g id="Frame 1000003124">
+<rect x="573" y="432" width="380" height="133" rx="18" fill="white" fill-opacity="0.03"/>
+<g transform="translate(596 455) scale(1.1)">
+  <path d="M20 6h-8l-2-2H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-6 10H6v-2h8v2zm4-4H6v-2h12v2z" fill="white" opacity="0.42"/>
+</g>
+<text x="628" y="478" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">PUBLIC REPOSITORIES</text>
+<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="596.231" y="530.455">39</tspan></text>
+</g>
+
+<g id="Frame 1000003125">
+<rect x="976" y="432" width="380" height="133" rx="18" fill="white" fill-opacity="0.03"/>
+<g transform="translate(999 455) scale(1.1)">
+  <path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5s-3 1.34-3 3 1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.61.02-.95.05 1.14.85 1.95 2.06 1.95 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z" fill="white" opacity="0.42"/>
+</g>
+<text x="1031" y="478" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">CONTRIBUTIONS</text>
+<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="999.231" y="530.455">3</tspan></text>
+</g>
+</g>
+
+<g id="Frame 1000003126">
+<g id="Frame 1000003127">
+<text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="178.28" y="706.227">Java</tspan></text>
+<text fill="#b07219" font-family="Inter" font-size="32" font-weight="600"><tspan x="178.486" y="748.136">69.9%</tspan></text>
+<rect x="178" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
+<rect x="178" y="761" width="87" height="9" rx="3" fill="#b07219"/>
+</g>
+<g id="Frame 1000003128_2">
+<text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="418.28" y="706.227">TypeScript</tspan></text>
+<text fill="#3178c6" font-family="Inter" font-size="32" font-weight="600"><tspan x="418.486" y="748.136">10.3%</tspan></text>
+<rect x="418" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
+<rect x="418" y="761" width="13" height="9" rx="3" fill="#3178c6"/>
+</g>
+<g id="Frame 1000003129">
+<text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="658.28" y="706.227">Dart</tspan></text>
+<text fill="#00B4AB" font-family="Inter" font-size="32" font-weight="600"><tspan x="658.486" y="748.136">8.1%</tspan></text>
+<rect x="658" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
+<rect x="658" y="761" width="10" height="9" rx="3" fill="#00B4AB"/>
+</g>
+<g id="Frame 1000003130">
+<text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="898.28" y="706.227">Vue</tspan></text>
+<text fill="#41b883" font-family="Inter" font-size="32" font-weight="600"><tspan x="898.486" y="748.136">6.7%</tspan></text>
+<rect x="898" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
+<rect x="898" y="761" width="8" height="9" rx="3" fill="#41b883"/>
+</g>
+<g id="Frame 1000003131">
+<text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="1138.28" y="706.227">Rust</tspan></text>
+<text fill="#B6FF05" font-family="Inter" font-size="32" font-weight="600"><tspan x="1138.49" y="748.136">5.0%</tspan></text>
+<rect x="1138" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
+<rect x="1138" y="761" width="6" height="9" rx="3" fill="#B6FF05"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_217_44" x1="-14.3062" y1="29.8386" x2="1482.85" y2="1005.9" gradientUnits="userSpaceOnUse">
+<stop stop-color="#601FDE"/><stop offset="0.26423" stop-color="#6E43BA"/><stop offset="0.592008" stop-color="#95AA54"/><stop offset="1" stop-color="#B5FF00"/>
+</linearGradient>
+<linearGradient id="paint1_linear_217_44" x1="763" y1="-53" x2="763" y2="852" gradientUnits="userSpaceOnUse">
+<stop stop-color="#601FDE"/><stop offset="1" stop-color="#341178" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint2_linear_217_44" x1="-17.654" y1="11.6693" x2="1501.59" y2="984.886" gradientUnits="userSpaceOnUse">
+<stop stop-color="#601FDE"/><stop offset="0.26423" stop-color="#6E43BA"/><stop offset="0.592008" stop-color="#95AA54"/><stop offset="1" stop-color="#B5FF00"/>
+</linearGradient>
+<linearGradient id="paint3_linear_217_44" x1="1390.67" y1="291.79" x2="1875.21" y2="-72.1545" gradientUnits="userSpaceOnUse">
+<stop stop-color="#95AA54"/><stop offset="0.420578" stop-color="#341178" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint4_linear_217_44" x1="1447.44" y1="249.149" x2="1818.44" y2="-29.514" gradientUnits="userSpaceOnUse">
+<stop stop-color="#95AA54"/><stop offset="0.456528" stop-color="#95AA54" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint5_linear_217_44" x1="12.5276" y1="616.843" x2="-443.821" y2="1015.57" gradientUnits="userSpaceOnUse">
+<stop stop-color="#601FDE"/><stop offset="0.420578" stop-color="#341178" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint6_linear_217_44" x1="94.061" y1="620.558" x2="-255.354" y2="925.853" gradientUnits="userSpaceOnUse">
+<stop stop-color="#601FDE"/><stop offset="0.456528" stop-color="#341178" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0_217_44"><rect width="1491" height="839" rx="19" fill="white"/></clipPath>
+<clipPath id="clip1_217_44"><rect width="1186" height="292" fill="white" transform="translate(170 273)"/></clipPath>
+</defs>
+</svg>
