@@ -39,40 +39,62 @@ It's best to use my **[contact form at fedox.ovh](https://fedox.ovh/contact)** �
    <img src="stats.svg" />
 </p>
 
-## ✨ The Chosen Ones 
+## ⚡ Hall of Fame
 
 > Wanna stick here forever?  
-> Just [click here to submit yourself](https://github.com/feeeedox/feeeedox/issues/new?title=Submit%20yourself&body=Just%20press%20%27Create%27.%20You%20don%27t%20need%20to%20do%20anything%20else.%0AWhen%20this%20issue%20is%20closed%20by%20the%20bot,%20the%20README%20will%20be%20updated.) 💫
+> Just [**--> click here to submit yourself <--**](https://github.com/feeeedox/feeeedox/issues/new?title=Submit%20yourself&body=Just%20press%20%27Create%27.%20You%20don%27t%20need%20to%20do%20anything%20else.%0AWhen%20this%20issue%20is%20closed%20by%20the%20bot,%20the%20README%20will%20be%20updated.) 💫
 
 <!--START_SECTION:users-->
-| Name | Pic. | Date |
-| ---- | ---------------- | ---- |
-| [maximjsx](https://github.com/maximjsx) | <img src="https://avatars.githubusercontent.com/maximjsx" width="30" height="30" /> | 2026-02-15 |
-| [C45702](https://github.com/C45702) | <img src="https://avatars.githubusercontent.com/C45702" width="30" height="30" /> | 2025-11-10 |
-| [Castorkaaa](https://github.com/Castorkaaa) | <img src="https://avatars.githubusercontent.com/Castorkaaa" width="30" height="30" /> | 2025-11-10 |
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/maximjsx">
+        <img src="https://avatars.githubusercontent.com/maximjsx" width="50" style="border-radius:50%;" alt=""/><br />
+        <img src="https://img.shields.io/badge/maximjsx-2026--02--15-601FDE?style=flat" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/C45702">
+        <img src="https://avatars.githubusercontent.com/C45702" width="50" style="border-radius:50%;" alt=""/><br />
+        <img src="https://img.shields.io/badge/C45702-2025--11--10-601FDE?style=flat" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Castorkaaa">
+        <img src="https://avatars.githubusercontent.com/Castorkaaa" width="50" style="border-radius:50%;" alt=""/><br />
+        <img src="https://img.shields.io/badge/Castorkaaa-2025--11--10-601FDE?style=flat" />
+      </a>
+    </td>
+  </tr>
+</table
 <!--END_SECTION:users-->
 
 <details>
 <summary>📜 Past Legends</summary>
 
 <!--START_SECTION:old_users-->
-| Name | Pic. | Date |
-| ---- | ---------------- | ---- |
-| [Austria7](https://github.com/Austria7) | <img src="https://avatars.githubusercontent.com/Austria7" width="30" height="30" /> | 2025-11-02 |
-| [S42yt](https://github.com/S42yt) | <img src="https://avatars.githubusercontent.com/S42yt" width="30" height="30" /> | 2025-09-26 |
-| [AboutCloudMC](https://github.com/AboutCloudMC) | <img src="https://avatars.githubusercontent.com/AboutCloudMC" width="30" height="30" /> | 2025-08-29 |
-| [Ente3](https://github.com/Ente3) | <img src="https://avatars.githubusercontent.com/Ente3" width="30" height="30" /> | 2025-08-26 |
-| [BlackDevCoding](https://github.com/BlackDevCoding) | <img src="https://avatars.githubusercontent.com/BlackDevCoding" width="30" height="30" /> | 2025-08-24 |
-| [byRoadrunner](https://github.com/byRoadrunner) | <img src="https://avatars.githubusercontent.com/byRoadrunner" width="30" height="30" /> | 2025-08-13 |
-| [Teekqu](https://github.com/Teekqu) | <img src="https://avatars.githubusercontent.com/Teekqu" width="30" height="30" /> | 2025-08-05 |
-| [creepzcodes](https://github.com/creepzcodes) | <img src="https://avatars.githubusercontent.com/creepzcodes" width="30" height="30" /> | 2025-08-05 |
-| [m1337xx](https://github.com/m1337xx) | <img src="https://avatars.githubusercontent.com/m1337xx" width="30" height="30" /> | 2025-08-05 |
-| [Grafjojo](https://github.com/Grafjojo) | <img src="https://avatars.githubusercontent.com/Grafjojo" width="30" height="30" /> | 2025-08-05 |
-| [Gabimolia](https://github.com/Gabimolia) | <img src="https://avatars.githubusercontent.com/Gabimolia" width="30" height="30" /> | 2025-08-05 |
-| [NameGeandert](https://github.com/NameGeandert) | <img src="https://avatars.githubusercontent.com/NameGeandert" width="30" height="30" /> | 2025-08-05 |
-| [Niedlichkeit](https://github.com/Niedlichkeit) | <img src="https://avatars.githubusercontent.com/Niedlichkeit" width="30" height="30" /> | 2025-08-05 |
-| [Bozcx](https://github.com/Bozcx) | <img src="https://avatars.githubusercontent.com/Bozcx" width="30" height="30" /> | 2025-08-05 |
-| [Winkarst-cpu](https://github.com/Winkarst-cpu) | <img src="https://avatars.githubusercontent.com/Winkarst-cpu" width="30" height="30" /> | 2025-08-05 |
-
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Austria7"><img src="https://avatars.githubusercontent.com/Austria7" width="40" style="border-radius:50%;" /><br /><sub><img src="https://img.shields.io/badge/Austria7-2025--11--02-601FDE?style=flat" /></sub></a></td>
+    <td align="center"><a href="https://github.com/S42yt"><img src="https://avatars.githubusercontent.com/S42yt" width="40" style="border-radius:50%;" /><br /><sub><img src="https://img.shields.io/badge/S42yt-2025--09--26-601FDE?style=flat" /></sub></a></td>
+    <td align="center"><a href="https://github.com/AboutCloudMC"><img src="https://avatars.githubusercontent.com/AboutCloudMC" width="40" style="border-radius:50%;" /><br /><sub><img src="https://img.shields.io/badge/CloudMC-2025--08--29-601FDE?style=flat" /></sub></a></td>
+    <td align="center"><a href="https://github.com/Ente3"><img src="https://avatars.githubusercontent.com/Ente3" width="40" style="border-radius:50%;" /><br /><sub><img src="https://img.shields.io/badge/Ente3-2025--08--26-601FDE?style=flat" /></sub></a></td>
+    <td align="center"><a href="https://github.com/BlackDevCoding"><img src="https://avatars.githubusercontent.com/BlackDevCoding" width="40" style="border-radius:50%;" /><br /><sub><img src="https://img.shields.io/badge/BlackDev-2025--08--24-601FDE?style=flat" /></sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/byRoadrunner"><img src="https://avatars.githubusercontent.com/byRoadrunner" width="40" style="border-radius:50%;" /><br /><sub><img src="https://img.shields.io/badge/Runner-2025--08--13-601FDE?style=flat" /></sub></a></td>
+    <td align="center"><a href="https://github.com/Teekqu"><img src="https://avatars.githubusercontent.com/Teekqu" width="40" style="border-radius:50%;" /><br /><sub><img src="https://img.shields.io/badge/Teekqu-2025--08--05-601FDE?style=flat" /></sub></a></td>
+    <td align="center"><a href="https://github.com/creepzcodes"><img src="https://avatars.githubusercontent.com/creepzcodes" width="40" style="border-radius:50%;" /><br /><sub><img src="https://img.shields.io/badge/Creepz-2025--08--05-601FDE?style=flat" /></sub></a></td>
+    <td align="center"><a href="https://github.com/m1337xx"><img src="https://avatars.githubusercontent.com/m1337xx" width="40" style="border-radius:50%;" /><br /><sub><img src="https://img.shields.io/badge/m1337xx-2025--08--05-601FDE?style=flat" /></sub></a></td>
+    <td align="center"><a href="https://github.com/Grafjojo"><img src="https://avatars.githubusercontent.com/Grafjojo" width="40" style="border-radius:50%;" /><br /><sub><img src="https://img.shields.io/badge/Grafjojo-2025--08--05-601FDE?style=flat" /></sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Gabimolia"><img src="https://avatars.githubusercontent.com/Gabimolia" width="40" style="border-radius:50%;" /><br /><sub><img src="https://img.shields.io/badge/Gabi-2025--08--05-601FDE?style=flat" /></sub></a></td>
+    <td align="center"><a href="https://github.com/NameGeandert"><img src="https://avatars.githubusercontent.com/NameGeandert" width="40" style="border-radius:50%;" /><br /><sub><img src="https://img.shields.io/badge/NameG-2025--08--05-601FDE?style=flat" /></sub></a></td>
+    <td align="center"><a href="https://github.com/Niedlichkeit"><img src="https://avatars.githubusercontent.com/Niedlichkeit" width="40" style="border-radius:50%;" /><br /><sub><img src="https://img.shields.io/badge/Niedlich-2025--08--05-601FDE?style=flat" /></sub></a></td>
+    <td align="center"><a href="https://github.com/Bozcx"><img src="https://avatars.githubusercontent.com/Bozcx" width="40" style="border-radius:50%;" /><br /><sub><img src="https://img.shields.io/badge/Bozcx-2025--08--05-601FDE?style=flat" /></sub></a></td>
+    <td align="center"><a href="https://github.com/Winkarst-cpu"><img src="https://avatars.githubusercontent.com/Winkarst-cpu" width="40" style="border-radius:50%;" /><br /><sub><img src="https://img.shields.io/badge/Winkarst-2025--08--05-601FDE?style=flat" /></sub></a></td>
+  </tr>
+</table>
 <!--END_SECTION:old_users-->
 </details>
