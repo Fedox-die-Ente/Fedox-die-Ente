@@ -5,6 +5,26 @@ const octokit = new Octokit({
   auth: process.env.GITHUB_TOKEN
 });
 
+const languageColors = {
+  'JavaScript': '#f1e05a',
+  'TypeScript': '#3178c6',
+  'HTML': '#e34c26',
+  'CSS': '#563d7c',
+  'Java': '#b07219',
+  'Dart': '#00B4AB',
+  'Vue': '#2c3e50',
+  'Ruby': '#701516',
+  'Rust': '#dea584',
+  'Python': '#3572A5',
+  'PHP': '#4F5D95',
+  'C++': '#f34b7d',
+  'C#': '#178600',
+  'Go': '#00ADD8',
+  'Swift': '#F05138',
+  'Rust': '#dea584',
+  'Default': '#B6FF05' 
+};
+
 const username = process.env.GITHUB_USERNAME;
 
 async function getGitHubStats() {
@@ -14,8 +34,8 @@ async function getGitHubStats() {
     const repos = [];
     let page = 1;
     while (true) {
-      const { data } = await octokit.repos.listForUser({
-        username,
+      const { data } = await octokit.repos.listForAuthenticatedUser({
+        visibility: 'all',
         per_page: 100,
         page
       });
@@ -29,7 +49,7 @@ async function getGitHubStats() {
     const totalCommits = await getTotalCommits(repos);
     const totalPRs = await getTotalPullRequests();
     const totalIssues = await getTotalIssues();
-    const totalRepos = user.public_repos;
+    const totalRepos = user.public_repos + (user.total_private_repos || 0);
     
     const languages = await getTopLanguages(repos);
     
@@ -49,7 +69,14 @@ async function getGitHubStats() {
 }
 
 async function getTotalCommits(repos) {
-  let totalCommits = 0;
+  // Benutzt die Search API, um ALLE Commits (auch privat) zu zählen
+  try {
+    const { data } = await octokit.search.commits({
+      q: `author:${username}`,
+    });
+    return data.total_count;
+  } catch (error) {
+    let totalCommits = 0;
   
   for (const repo of repos) {
     if (repo.fork) continue;
@@ -86,6 +113,7 @@ async function getTotalCommits(repos) {
   }
   
   return totalCommits;
+  }
 }
 
 async function getTotalPullRequests() {
@@ -171,11 +199,14 @@ function generateSVG(stats) {
     svg = svg
       .replace(new RegExp(`LANGUAGE_${langNum}_NAME`, 'g'), lang.name)
       .replace(new RegExp(`LANGUAGE_${langNum}_PERCENT`, 'g'), lang.percentage);
+
+    const colorRegex = new RegExp('#D2712C', 'i');
+    svg = svg.replace(colorRegex, lang.color);
     
     const barWidth = Math.round((parseFloat(lang.percentage) / 100) * 125);
     svg = svg.replace(
-      new RegExp(`<rect x="(\\d+)" y="761" width="125" height="9" rx="3" fill="#D2712C"\\/>`).source.replace('125', '\\d+'),
-      (match) => match.replace(/width="\d+"/, `width="${barWidth}"`)
+       new RegExp(`width="\\d+" height="9" rx="3" fill="#D2712C"`, 'i'),
+       `width="${barWidth}" height="9" rx="3" fill="${lang.color}"`
     );
   });
   
