@@ -2,7 +2,7 @@ const { Octokit } = require('@octokit/rest');
 const fs = require('fs');
 
 const octokit = new Octokit({
-  auth: process.env.GITHUB_TOKEN
+  auth: process.env.STATS_TOKEN
 });
 
 const languageColors = {
