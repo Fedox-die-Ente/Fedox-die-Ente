@@ -9,108 +9,181 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Process Issue
-      id: issue_data
+    - name: Add initial reaction
       run: |
-        # Initial Reaction
-        curl -X POST -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+        curl -X POST \
+          -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
           -H "Accept: application/vnd.github+json" \
           "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/reactions" \
           -d '{"content":"eyes"}'
+        echo "originaltitle=false" >> $GITHUB_ENV
+        echo "submittitle=false" >> $GITHUB_ENV
 
-        # Setup Variables
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Check issue title
+      if: ${{ startsWith(github.event.issue.title, 'Submit yourself') }}
+      run: |
+        echo "submittitle=true" >> $GITHUB_ENV
+
+    - name: Check issue title for modification
+      if: ${{ github.event.issue.title == 'Submit yourself' }}
+      run: |
+        echo "originaltitle=true" >> $GITHUB_ENV
+
+    - name: Get issue data
+      run: |
         echo "USER_NAME=${{ github.actor }}" >> $GITHUB_ENV
+        echo "USER_AVATAR=https://avatars.githubusercontent.com/${{ github.actor }}" >> $GITHUB_ENV
         echo "USER_DATE=$(date +"%Y-%m-%d")" >> $GITHUB_ENV
-        
-        if [[ "${{ github.event.issue.title }}" == "Submit yourself" ]]; then
-          echo "valid_issue=true" >> $GITHUB_ENV
+
+    - name: Check for duplicates in README
+      id: check_duplicates
+      run: |
+        if grep -q "\[${{ env.USER_NAME }}\](https://github.com/${{ env.USER_NAME }})" README.md; then
+          echo "duplicate=true" >> $GITHUB_ENV
         else
-          echo "valid_issue=false" >> $GITHUB_ENV
+          echo "duplicate=false" >> $GITHUB_ENV
         fi
 
-    - name: Update README
-      if: env.valid_issue == 'true'
+    - name: Update README with latest user
+      if: ${{ env.duplicate == 'false' && env.submittitle == 'true' }}
       run: |
         git config --local user.name "github-actions"
         git config --local user.email "github-actions@github.com"
+        
+        new_user_row="| [${{ env.USER_NAME }}](https://github.com/${{ env.USER_NAME }}) | <img src=\"${{ env.USER_AVATAR }}\" width=\"30\" height=\"30\" /> | ${{ env.USER_DATE }} |"
 
-        # Prüfen auf Duplikate (via Username im Badge-Link)
-        if grep -q "badge/${{ env.USER_NAME }}-" README.md; then
-          echo "User exists. Skipping."
-          exit 0
-        fi
+        update_readme() {
+          awk -v new_user_row="$new_user_row" '
+          BEGIN { 
+            inside_users = 0
+            inside_old = 0
+            user_count = 0
+            header_printed = 0
+          }
 
-        python3 - <<EOF
-        import re
+          /<!--START_SECTION:users-->/ {
+            print $0
+            inside_users = 1
+            if (!header_printed) {
+              print "| Name | Pic. | Date |"
+              print "| ---- | ---------------- | ---- |"
+              header_printed = 1
+            }
+            print new_user_row
+            next
+          }
 
-        # Datei einlesen
-        with open('README.md', 'r', encoding='utf-8') as f:
-            content = f.read()
+          inside_users && /^\|.*\|.*\|.*\|$/ && !/\| Name \|/ && !/\| ---- \|/ {
+            user_count++
+            if (user_count <= 2) {
+              print $0
+            } else {
+              old_user = $0
+            }
+            next
+          }
 
-        # Extrahiere aktuelle User-Zellen aus der START_SECTION
-        users_match = re.search(r'(.*?)', content, re.DOTALL)
-        if users_match:
-            # Findet alle vorhandenen <td> Blöcke
-            cells = re.findall(r'<td align="center">.*?</td>', users_match.group(1), re.DOTALL)
-            
-            # Neue Zelle für den aktuellen User bauen
-            new_cell = """    <td align="center">
-            <a href="https://github.com/${{ env.USER_NAME }}">
-              <img src="https://avatars.githubusercontent.com/${{ env.USER_NAME }}" width="50" style="border-radius:50%;" /><br />
-              <img src="https://img.shields.io/badge/${{ env.USER_NAME }}-${{ env.USER_DATE }}-601FDE?style=flat" />
-            </a>
-          </td>"""
-            
-            # Neuen User an den Anfang der Liste setzen
-            cells.insert(0, new_cell)
+          /<!--END_SECTION:users-->/ {
+            print $0
+            inside_users = 0
+            next
+          }
 
-            # Alles was über 3 User hinausgeht, wird für "Past Legends" zwischengespeichert
-            shifted_user = None
-            if len(cells) > 3:
-                shifted_user = cells.pop()
+          /<details>/ || /<summary>/ {
+            print $0
+            next
+          }
 
-            # Den neuen Block für "The Chosen Ones" zusammenbauen
-            new_users_html = '\n<table>\n  <tr>\n' + '\n'.join(cells) + '\n  </tr>\n</table>\n'
-            content = re.sub(r'.*?', new_users_html, content, flags=re.DOTALL)
+          /<!--START_SECTION:old_users-->/ {
+            print $0
+            inside_old = 1
+            print "| Name | Pic. | Date |"
+            print "| ---- | ---------------- | ---- |"
+            if (user_count > 2) {
+              print old_user
+            }
+            next
+          }
 
-            # Falls jemand rausgefallen ist, in die Past Legends Tabelle schieben
-            if shifted_user:
-                # Bildgröße für die History etwas verkleinern (von 50 auf 40)
-                shifted_user = shifted_user.replace('width="50"', 'width="40"')
-                
-                old_match = re.search(r'(.*?)', content, re.DOTALL)
-                if old_match:
-                    old_content_inner = old_match.group(1)
-                    # Wir fügen die Zelle nach dem ersten <tr> der alten Tabelle ein
-                    updated_old_inner = re.sub(r'<tr>', '<tr>\n' + shifted_user, old_content_inner, count=1)
-                    content = content.replace(old_content_inner, updated_old_inner)
+          inside_old && /^\|.*\|.*\|.*\|$/ && !/\| Name \|/ && !/\| ---- \|/ {
+            print $0
+            next
+          }
 
-        # Datei mit den Änderungen speichern
-        with open('README.md', 'w', encoding='utf-8') as f:
-            f.write(content)
-        EOF
+          /<!--END_SECTION:old_users-->/ {
+            print $0
+            inside_old = 0
+            next
+          }
 
-        git add README.md
-        git commit -m "Welcome ${{ env.USER_NAME }} to the Hall of Fame!"
-        git push
+          !/\| Name \|/ && !/\| ---- \|/ {
+            print $0
+          }' README.md > README.temp.md && mv README.temp.md README.md
+        }
 
-    - name: Close Issue
-      if: always()
-      run: |
+        for i in {1..3}; do
+          git reset --hard
+          git clean -fd
+          git fetch origin main
+          git reset --hard origin/main
+          update_readme
+          git add README.md
+          git commit -m "Update README with new user"
+          
+          if git push; then
+            exit 0
+          fi
+          
+          sleep $((i * 2)) 
+        done
+
         ISSUE_NUMBER=${{ github.event.issue.number }}
-        if [[ "${{ env.valid_issue }}" == "true" ]]; then
-          MSG="Welcome aboard! You've officially made it into the Hall of Fame 😎"
-        else
-          MSG="Oops! 😬 Please use the exact title 'Submit yourself' to be added."
-        fi
+        ERROR_MESSAGE="Whoops! Something went wrong while trying to add you 😕. Check out the [failed action run](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}) for more details."
         
         curl -X POST -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-          -d "{\"body\":\"$MSG\"}" \
+          -H "Accept: application/vnd.github+json" \
+          -d "{\"body\":\"$ERROR_MESSAGE\"}" \
           "https://api.github.com/repos/${{ github.repository }}/issues/$ISSUE_NUMBER/comments"
         
         curl -X PATCH -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+          -H "Accept: application/vnd.github+json" \
           "https://api.github.com/repos/${{ github.repository }}/issues/$ISSUE_NUMBER" \
           -d '{"state":"closed"}'
+        
+        exit 1
+
+    - name: Close issue with a comment
+      if: ${{ env.submittitle == 'true' }}
+      run: |
+        ISSUE_NUMBER=${{ github.event.issue.number }}
+        COMMENT_BODY=$(if [ "${{ env.originaltitle }}" == "false" ]; then echo "Hey, changing the issue title messes up the magic 🧙‍♂️. Please keep it as 'Submit yourself' next time!"; else echo "Nice job! ✅"; fi)
+
+        SECOND_COMMENT_BODY=$(if [ "${{ env.duplicate }}" == "true" ]; then echo "You're already on the list 🎉 – no need to double-dip!"; else echo "Welcome aboard! You've officially made it into the README 😎 → https://github.com/feeeedox"; fi)
+
+        curl -X POST -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+          -H "Accept: application/vnd.github+json" \
+          -d "{\"body\":\"$COMMENT_BODY\"}" \
+          https://api.github.com/repos/${{ github.repository }}/issues/$ISSUE_NUMBER/comments
+        
+        curl -X POST -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+          -H "Accept: application/vnd.github+json" \
+          -d "{\"body\":\"$SECOND_COMMENT_BODY\"}" \
+          https://api.github.com/repos/${{ github.repository }}/issues/$ISSUE_NUMBER/comments
+
+        curl -X PATCH -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+          -H "Accept: application/vnd.github+json" \
+          https://api.github.com/repos/${{ github.repository }}/issues/$ISSUE_NUMBER \
+          -d '{"state":"closed"}'
+
+    - name: Ignore issue
+      if: ${{ env.submittitle == 'false' }}
+      run: |
+        ISSUE_NUMBER=${{ github.event.issue.number }}
+
+        curl -X POST -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+          -H "Accept: application/vnd.github+json" \
+          -d "{\"body\":\"Oops! 😬 Looks like you changed the issue title. To get added to the README, please make sure your issue title is exactly: **Submit yourself**. Close this one and try again! 🚀\"}" \
+          https://api.github.com/repos/${{ github.repository }}/issues/$ISSUE_NUMBER/comments
