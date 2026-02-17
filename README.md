@@ -6,7 +6,6 @@
 
 🔭 Currently focused on finding my career path in development.</br>
 🚀 I build *(attempt to build)* digital solutions with a focus on clean code, modern architecture, and automation.
-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
 
 ## ⚡ Get in Touch
 Do you have a project in mind or just want to connect?<br/>
