@@ -41,10 +41,10 @@ It's best to use my **[contact form at fedox.ovh](https://fedox.ovh/contact)** �
    <img src="stats.svg" />
 </p>
 
-## ✨ The Chosen Ones 
+## ⚡ Hall of Fame
 
 > Wanna stick here forever?  
-> Just [**--> click here to submit yourself <--**](https://github.com/feeeedox/feeeedox/issues/new?title=Submit%20yourself&body=Just%20press%20%27Create%27.%20You%20don%27t%20need%20to%20do%20anything%20else.%0AWhen%20this%20issue%20is%20closed%20by%20the%20bot,%20the%20README%20will%20be%20updated.) 💫
+> Just [**»»» click here to submit yourself «««**](https://github.com/feeeedox/feeeedox/issues/new?title=Submit%20yourself&body=Just%20press%20%27Create%27.%20You%20don%27t%20need%20to%20do%20anything%20else.%0AWhen%20this%20issue%20is%20closed%20by%20the%20bot,%20the%20README%20will%20be%20updated.) 💫
 
 <!--START_SECTION:users-->
 | Name | Pic. | Date |
