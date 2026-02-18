@@ -1,4 +1,4 @@
-<a href="https://fedox.ovh"><img src="./assets/banner.png" alt="Header"/></a>
+<a href="https://fedox.ovh"><img src="./assets/banner.png" alt="Header" target="_blank"/></a>
 
 # Hi, I'm Florian! <img src="./assets/wave.gif" width="30px" height="30px">
 
@@ -11,8 +11,8 @@
 Do you have a project in mind or just want to connect?<br/>
 It's best to use my **[contact form at fedox.ovh](https://fedox.ovh/contact)** – that's how I can respond most quickly.
 
-[<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-95AA54?style=flat&logo=nuxt&logoColor=white" />](https://fedox.ovh)
-[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />](https://github.com/feeeedox)
+[<img target="_blank" src="https://img.shields.io/badge/Visit%20My%20Portfolio-95AA54?style=flat&logo=nuxt&logoColor=white" />](https://fedox.ovh)
+[<img target="_blank" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />](https://github.com/feeeedox)
 
 ## 💻 My Skills
 
@@ -38,7 +38,7 @@ It's best to use my **[contact form at fedox.ovh](https://fedox.ovh/contact)** �
 ![](https://img.shields.io/badge/Cloud-OVH-601FDE?style=flat&logo=ovh&logoColor=white&color=601FDE)
 ## 🌟 My *public* GitHub Stats
 <p align="center">
-   <img src="stats.svg" />
+   <img src="stats.svg" target="_blank" />
 </p>
 
 ## ⚡ Hall of Fame
