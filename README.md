@@ -30,6 +30,7 @@ It's best to use my **[contact form at fedox.ovh](https://fedox.ovh/contact)** �
 ![](https://img.shields.io/badge/Database-PostgreSQL-601FDE?style=flat&logo=postgresql&logoColor=white&color=601FDE)
 ![](https://img.shields.io/badge/Database-MongoDB-601FDE?style=flat&logo=mongodb&logoColor=white&color=601FDE)
 ![](https://img.shields.io/badge/Database-MySQL-601FDE?style=flat&logo=mysql&logoColor=white&color=601FDE)
+![](https://img.shields.io/badge/Database-Redis-601FDE?style=flat&logo=redis&logoColor=white&color=601FDE)
 
 ### 🛠️ Tools & Systems
 ![](https://img.shields.io/badge/OS-Linux-601FDE?style=flat&logo=linux&logoColor=white&color=601FDE)
