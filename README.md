@@ -35,6 +35,7 @@ It's best to use my **[contact form at fedox.ovh](https://fedox.ovh/contact)** �
 ### 🛠️ Tools & Systems
 ![](https://img.shields.io/badge/OS-Linux-601FDE?style=flat&logo=linux&logoColor=white&color=601FDE)
 ![](https://img.shields.io/badge/Tools-Figma-601FDE?style=flat&logo=figma&logoColor=white&color=601FDE)
+![](https://img.shields.io/badge/Tools-Fluent-601FDE?style=flat&logo=mozilla&logoColor=white&color=601FDE)
 ![](https://img.shields.io/badge/Tools-TailwindCSS-601FDE?style=flat&logo=tailwindcss&logoColor=white&color=601FDE)
 ![](https://img.shields.io/badge/Cloud-OVH-601FDE?style=flat&logo=ovh&logoColor=white&color=601FDE)
 ## 🌟 My *public* GitHub Stats
