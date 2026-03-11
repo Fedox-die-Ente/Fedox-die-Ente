@@ -52,9 +52,9 @@ It's best to use my **[contact form at fedox.ovh](https://fedox.ovh/contact)** â
 <!--START_SECTION:users-->
 | Name | Pic. | Date |
 | ---- | ---------------- | ---- |
+| [jonasxyz1337](https://github.com/jonasxyz1337) | <img src="https://avatars.githubusercontent.com/jonasxyz1337" width="30" height="30" /> | 2026-03-11 |
 | [caraqos](https://github.com/caraqos) | <img src="https://avatars.githubusercontent.com/caraqos" width="30" height="30" /> | 2026-02-23 |
 | [maximjsx](https://github.com/maximjsx) | <img src="https://avatars.githubusercontent.com/maximjsx" width="30" height="30" /> | 2026-02-15 |
-| [C45702](https://github.com/C45702) | <img src="https://avatars.githubusercontent.com/C45702" width="30" height="30" /> | 2025-11-10 |
 <!--END_SECTION:users-->
 
 <details>
@@ -63,6 +63,7 @@ It's best to use my **[contact form at fedox.ovh](https://fedox.ovh/contact)** â
 <!--START_SECTION:old_users-->
 | Name | Pic. | Date |
 | ---- | ---------------- | ---- |
+| [C45702](https://github.com/C45702) | <img src="https://avatars.githubusercontent.com/C45702" width="30" height="30" /> | 2025-11-10 |
 | [Castorkaaa](https://github.com/Castorkaaa) | <img src="https://avatars.githubusercontent.com/Castorkaaa" width="30" height="30" /> | 2025-11-10 |
 | [Austria7](https://github.com/Austria7) | <img src="https://avatars.githubusercontent.com/Austria7" width="30" height="30" /> | 2025-11-02 |
 | [S42yt](https://github.com/S42yt) | <img src="https://avatars.githubusercontent.com/S42yt" width="30" height="30" /> | 2025-09-26 |
