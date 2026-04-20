@@ -45,7 +45,7 @@
   <path d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-1-13h2v6h-2zm0 8h2v2h-2z" fill="white" opacity="0.42"/>
 </g>
 <text x="628" y="319" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">TOTAL COMMITS</text>
-<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="596.231" y="371.455">819</tspan></text>
+<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="596.231" y="371.455">828</tspan></text>
 </g>
 
 <g id="Frame 1000003122">
@@ -88,33 +88,33 @@
 <g id="Frame 1000003126">
 <g id="Frame 1000003127">
 <text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="178.28" y="706.227">Java</tspan></text>
-<text fill="#b07219" font-family="Inter" font-size="32" font-weight="600"><tspan x="178.486" y="748.136">63.5%</tspan></text>
+<text fill="#b07219" font-family="Inter" font-size="32" font-weight="600"><tspan x="178.486" y="748.136">59.5%</tspan></text>
 <rect x="178" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
-<rect x="178" y="761" width="79" height="9" rx="3" fill="#b07219"/>
+<rect x="178" y="761" width="74" height="9" rx="3" fill="#b07219"/>
 </g>
 <g id="Frame 1000003128_2">
 <text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="418.28" y="706.227">TypeScript</tspan></text>
-<text fill="#3178c6" font-family="Inter" font-size="32" font-weight="600"><tspan x="418.486" y="748.136">16.4%</tspan></text>
+<text fill="#3178c6" font-family="Inter" font-size="32" font-weight="600"><tspan x="418.486" y="748.136">15.4%</tspan></text>
 <rect x="418" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
-<rect x="418" y="761" width="20" height="9" rx="3" fill="#3178c6"/>
+<rect x="418" y="761" width="19" height="9" rx="3" fill="#3178c6"/>
 </g>
 <g id="Frame 1000003129">
-<text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="658.28" y="706.227">Dart</tspan></text>
-<text fill="#00B4AB" font-family="Inter" font-size="32" font-weight="600"><tspan x="658.486" y="748.136">7.7%</tspan></text>
+<text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="658.28" y="706.227">MDX</tspan></text>
+<text fill="#B6FF05" font-family="Inter" font-size="32" font-weight="600"><tspan x="658.486" y="748.136">10.7%</tspan></text>
 <rect x="658" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
-<rect x="658" y="761" width="10" height="9" rx="3" fill="#00B4AB"/>
+<rect x="658" y="761" width="13" height="9" rx="3" fill="#B6FF05"/>
 </g>
 <g id="Frame 1000003130">
-<text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="898.28" y="706.227">Vue</tspan></text>
-<text fill="#41b883" font-family="Inter" font-size="32" font-weight="600"><tspan x="898.486" y="748.136">7.7%</tspan></text>
+<text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="898.28" y="706.227">Dart</tspan></text>
+<text fill="#00B4AB" font-family="Inter" font-size="32" font-weight="600"><tspan x="898.486" y="748.136">7.2%</tspan></text>
 <rect x="898" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
-<rect x="898" y="761" width="10" height="9" rx="3" fill="#41b883"/>
+<rect x="898" y="761" width="9" height="9" rx="3" fill="#00B4AB"/>
 </g>
 <g id="Frame 1000003131">
-<text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="1138.28" y="706.227">Rust</tspan></text>
-<text fill="#B6FF05" font-family="Inter" font-size="32" font-weight="600"><tspan x="1138.49" y="748.136">4.7%</tspan></text>
+<text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="1138.28" y="706.227">Vue</tspan></text>
+<text fill="#41b883" font-family="Inter" font-size="32" font-weight="600"><tspan x="1138.49" y="748.136">7.2%</tspan></text>
 <rect x="1138" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
-<rect x="1138" y="761" width="6" height="9" rx="3" fill="#B6FF05"/>
+<rect x="1138" y="761" width="9" height="9" rx="3" fill="#41b883"/>
 </g>
 </g>
 </g>
