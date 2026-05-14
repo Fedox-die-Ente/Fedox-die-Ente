@@ -36,7 +36,7 @@
   <path d="M12 2l2.9 6.9L22 9.7l-5 4.9L18.2 22 12 18.6 5.8 22 7 14.6 2 9.7l7.1-.8L12 2z" fill="white" opacity="0.42"/>
 </g>
 <text x="225" y="319" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">TOTAL STARS</text>
-<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="193.231" y="371.455">38</tspan></text>
+<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="193.231" y="371.455">37</tspan></text>
 </g>
 
 <g id="Frame 1000003121_2">
@@ -45,7 +45,7 @@
   <path d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-1-13h2v6h-2zm0 8h2v2h-2z" fill="white" opacity="0.42"/>
 </g>
 <text x="628" y="319" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">TOTAL COMMITS</text>
-<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="596.231" y="371.455">864</tspan></text>
+<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="596.231" y="371.455">871</tspan></text>
 </g>
 
 <g id="Frame 1000003122">
@@ -54,7 +54,7 @@
   <path d="M15 15l5-5-5-5v4H9c-1.65 0-3 1.35-3 3v5h2v-5c0-.55.45-1 1-1h6v4z" fill="white" opacity="0.42"/>
 </g>
 <text x="1031" y="319" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">PULL REQUESTS</text>
-<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="999.231" y="371.455">51</tspan></text>
+<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="999.231" y="371.455">53</tspan></text>
 </g>
 
 <g id="Frame 1000003123">
@@ -63,7 +63,7 @@
   <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z" fill="white" opacity="0.42"/>
 </g>
 <text x="225" y="478" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">ISSUES</text>
-<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="193.231" y="530.455">79</tspan></text>
+<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="193.231" y="530.455">80</tspan></text>
 </g>
 
 <g id="Frame 1000003124">
@@ -72,7 +72,7 @@
   <path d="M20 6h-8l-2-2H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-6 10H6v-2h8v2zm4-4H6v-2h12v2z" fill="white" opacity="0.42"/>
 </g>
 <text x="628" y="478" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">PUBLIC REPOSITORIES</text>
-<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="596.231" y="530.455">45</tspan></text>
+<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="596.231" y="530.455">44</tspan></text>
 </g>
 
 <g id="Frame 1000003125">
