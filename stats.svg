@@ -54,7 +54,7 @@
   <path d="M15 15l5-5-5-5v4H9c-1.65 0-3 1.35-3 3v5h2v-5c0-.55.45-1 1-1h6v4z" fill="white" opacity="0.42"/>
 </g>
 <text x="1031" y="319" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">PULL REQUESTS</text>
-<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="999.231" y="371.455">59</tspan></text>
+<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="999.231" y="371.455">60</tspan></text>
 </g>
 
 <g id="Frame 1000003123">
@@ -88,7 +88,7 @@
 <g id="Frame 1000003126">
 <g id="Frame 1000003127">
 <text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="178.28" y="706.227">Java</tspan></text>
-<text fill="#b07219" font-family="Inter" font-size="32" font-weight="600"><tspan x="178.486" y="748.136">41.3%</tspan></text>
+<text fill="#b07219" font-family="Inter" font-size="32" font-weight="600"><tspan x="178.486" y="748.136">41.4%</tspan></text>
 <rect x="178" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
 <rect x="178" y="761" width="52" height="9" rx="3" fill="#b07219"/>
 </g>
@@ -106,7 +106,7 @@
 </g>
 <g id="Frame 1000003130">
 <text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="898.28" y="706.227">TypeScript</tspan></text>
-<text fill="#3178c6" font-family="Inter" font-size="32" font-weight="600"><tspan x="898.486" y="748.136">13.7%</tspan></text>
+<text fill="#3178c6" font-family="Inter" font-size="32" font-weight="600"><tspan x="898.486" y="748.136">13.6%</tspan></text>
 <rect x="898" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
 <rect x="898" y="761" width="17" height="9" rx="3" fill="#3178c6"/>
 </g>
