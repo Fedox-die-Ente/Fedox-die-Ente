@@ -36,7 +36,7 @@
   <path d="M12 2l2.9 6.9L22 9.7l-5 4.9L18.2 22 12 18.6 5.8 22 7 14.6 2 9.7l7.1-.8L12 2z" fill="white" opacity="0.42"/>
 </g>
 <text x="225" y="319" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">TOTAL STARS</text>
-<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="193.231" y="371.455">49</tspan></text>
+<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="193.231" y="371.455">50</tspan></text>
 </g>
 
 <g id="Frame 1000003121_2">
@@ -88,13 +88,13 @@
 <g id="Frame 1000003126">
 <g id="Frame 1000003127">
 <text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="178.28" y="706.227">Java</tspan></text>
-<text fill="#b07219" font-family="Inter" font-size="32" font-weight="600"><tspan x="178.486" y="748.136">41.3%</tspan></text>
+<text fill="#b07219" font-family="Inter" font-size="32" font-weight="600"><tspan x="178.486" y="748.136">41.1%</tspan></text>
 <rect x="178" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
-<rect x="178" y="761" width="52" height="9" rx="3" fill="#b07219"/>
+<rect x="178" y="761" width="51" height="9" rx="3" fill="#b07219"/>
 </g>
 <g id="Frame 1000003128_2">
 <text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="418.28" y="706.227">CSS</tspan></text>
-<text fill="#563d7c" font-family="Inter" font-size="32" font-weight="600"><tspan x="418.486" y="748.136">19.9%</tspan></text>
+<text fill="#563d7c" font-family="Inter" font-size="32" font-weight="600"><tspan x="418.486" y="748.136">20.2%</tspan></text>
 <rect x="418" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
 <rect x="418" y="761" width="25" height="9" rx="3" fill="#563d7c"/>
 </g>
