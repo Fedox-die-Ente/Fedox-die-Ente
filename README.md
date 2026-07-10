@@ -4,7 +4,7 @@
 
 **Software Engineer | Linux User | Handsome young man (~ My Grandma)**
 
-🔭 Currently focused on finding my career path in development.</br>
+🔭 I am currently working on a few private and public projects.</br>
 🚀 I build *(attempt to build)* digital solutions with a focus on clean code, modern architecture, and automation.
 
 ## ⚡ Get in Touch
