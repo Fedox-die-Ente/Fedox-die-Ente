@@ -86,3 +86,5 @@ It's best to use my **[contact form at fedox.ovh](https://fedox.ovh/contact)** â
 
 <!--END_SECTION:old_users-->
 </details>
+
+![Profile views](https://shieldcn.dev/views/user/feeeedox.svg?variant=ghost)
