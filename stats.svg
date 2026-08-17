@@ -54,7 +54,7 @@
   <path d="M15 15l5-5-5-5v4H9c-1.65 0-3 1.35-3 3v5h2v-5c0-.55.45-1 1-1h6v4z" fill="white" opacity="0.42"/>
 </g>
 <text x="1031" y="319" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">PULL REQUESTS</text>
-<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="999.231" y="371.455">65</tspan></text>
+<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="999.231" y="371.455">67</tspan></text>
 </g>
 
 <g id="Frame 1000003123">
@@ -72,7 +72,7 @@
   <path d="M20 6h-8l-2-2H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-6 10H6v-2h8v2zm4-4H6v-2h12v2z" fill="white" opacity="0.42"/>
 </g>
 <text x="628" y="478" fill="white" fill-opacity="0.42" font-size="24" font-weight="600">PUBLIC REPOSITORIES</text>
-<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="596.231" y="530.455">49</tspan></text>
+<text fill="white" font-family="Inter" font-size="48" font-weight="bold"><tspan x="596.231" y="530.455">50</tspan></text>
 </g>
 
 <g id="Frame 1000003125">
@@ -88,19 +88,19 @@
 <g id="Frame 1000003126">
 <g id="Frame 1000003127">
 <text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="178.28" y="706.227">Java</tspan></text>
-<text fill="#b07219" font-family="Inter" font-size="32" font-weight="600"><tspan x="178.486" y="748.136">39.4%</tspan></text>
+<text fill="#b07219" font-family="Inter" font-size="32" font-weight="600"><tspan x="178.486" y="748.136">39.5%</tspan></text>
 <rect x="178" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
 <rect x="178" y="761" width="49" height="9" rx="3" fill="#b07219"/>
 </g>
 <g id="Frame 1000003128_2">
 <text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="418.28" y="706.227">CSS</tspan></text>
-<text fill="#563d7c" font-family="Inter" font-size="32" font-weight="600"><tspan x="418.486" y="748.136">20.4%</tspan></text>
+<text fill="#563d7c" font-family="Inter" font-size="32" font-weight="600"><tspan x="418.486" y="748.136">20.7%</tspan></text>
 <rect x="418" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
 <rect x="418" y="761" width="26" height="9" rx="3" fill="#563d7c"/>
 </g>
 <g id="Frame 1000003129">
 <text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="658.28" y="706.227">Vue</tspan></text>
-<text fill="#41b883" font-family="Inter" font-size="32" font-weight="600"><tspan x="658.486" y="748.136">19.6%</tspan></text>
+<text fill="#41b883" font-family="Inter" font-size="32" font-weight="600"><tspan x="658.486" y="748.136">19.7%</tspan></text>
 <rect x="658" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
 <rect x="658" y="761" width="25" height="9" rx="3" fill="#41b883"/>
 </g>
@@ -111,10 +111,10 @@
 <rect x="898" y="761" width="16" height="9" rx="3" fill="#3178c6"/>
 </g>
 <g id="Frame 1000003131">
-<text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="1138.28" y="706.227">JavaScript</tspan></text>
-<text fill="#f1e05a" font-family="Inter" font-size="32" font-weight="600"><tspan x="1138.49" y="748.136">7.4%</tspan></text>
+<text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="1138.28" y="706.227">MDX</tspan></text>
+<text fill="#B6FF05" font-family="Inter" font-size="32" font-weight="600"><tspan x="1138.49" y="748.136">7.0%</tspan></text>
 <rect x="1138" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
-<rect x="1138" y="761" width="9" height="9" rx="3" fill="#f1e05a"/>
+<rect x="1138" y="761" width="9" height="9" rx="3" fill="#B6FF05"/>
 </g>
 </g>
 </g>
